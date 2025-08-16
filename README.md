@@ -5,3 +5,7 @@ Private repo to learn and test the Rust programming language
 
 ## <ins>Link Collection:</ins>
 - [Rust Book](https://doc.rust-lang.org/book/)
+
+## <ins>Folders</ins>
+- extern/book: sources from the rust book
+

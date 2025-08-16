@@ -1,0 +1,3 @@
+[submodule "extern/book"]
+	path = extern/book
+	url = https://github.com/rust-lang/book.git

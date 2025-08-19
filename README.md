@@ -1,7 +1,7 @@
 # <ins>learning_rust</ins>
 Private repo to learn and test the Rust programming language
 
-[Current Bookmark](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html#comparing-the-guess-to-the-secret-number)
+[Current Bookmark](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html#handling-invalid-input)
 
 ## <ins>Link Collection:</ins>
 - [Rust Book](https://doc.rust-lang.org/book/)

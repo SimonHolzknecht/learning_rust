@@ -1,7 +1,7 @@
 # <ins>learning_rust</ins>
 Private repo to learn and test the Rust programming language
 
-[Current Bookmark](https://doc.rust-lang.org/book/ch03-03-how-functions-work.html#parameters)
+[Current Bookmark](https://doc.rust-lang.org/book/ch03-04-comments.html)
 
 ## <ins>Link Collection:</ins>
 - [Rust Book](https://doc.rust-lang.org/book/)

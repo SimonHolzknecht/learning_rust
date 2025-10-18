@@ -1,7 +1,7 @@
 # <ins>learning_rust</ins>
 Private repo to learn and test the Rust programming language
 
-[Current Bookmark](https://doc.rust-lang.org/book/ch04-03-slices.html#the-slice-type)
+[Current Bookmark](https://doc.rust-lang.org/book/ch05-02-example-structs.html)
 
 ## <ins>Link Collection:</ins>
 - [Rust Introduction Book](https://doc.rust-lang.org/book/)

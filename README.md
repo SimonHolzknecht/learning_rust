@@ -1,7 +1,7 @@
 # <ins>learning_rust</ins>
 Private repo to learn and test the Rust programming language
 
-[Current Bookmark](https://doc.rust-lang.org/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html)
+[Current Bookmark](https://doc.rust-lang.org/book/ch07-04-bringing-paths-into-scope-with-the-use-keyword.html)
 
 ## <ins>Link Collection:</ins>
 - [Rust Introduction Book](https://doc.rust-lang.org/book/)

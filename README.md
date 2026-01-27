@@ -1,7 +1,7 @@
 # <ins>learning_rust</ins>
 Private repo to learn and test the Rust programming language
 
-[Current Bookmark](https://doc.rust-lang.org/book/ch08-00-common-collections.html)
+[Current Bookmark](https://doc.rust-lang.org/book/ch08-02-strings.html)
 
 ## <ins>Link Collection:</ins>
 - [Rust Introduction Book](https://doc.rust-lang.org/book/)

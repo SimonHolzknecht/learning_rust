@@ -6,7 +6,8 @@ Private repo to learn and test the Rust programming language
 ## <ins>Link Collection:</ins>
 - [Rust Introduction Book](https://doc.rust-lang.org/book/)
 - [Rust Reference Book](https://doc.rust-lang.org/reference/introduction.html)
-- [Rust API Guide](https://rust-lang.github.io/api-guidelines/) <- READ THIS AFTER THE MAIN GUIDE!
+- [Rust API Guide](https://rust-lang.github.io/api-guidelines/)
+- [Rust Design Patterns](https://rust-unofficial.github.io/patterns/) <- READ THIS AFTER THE MAIN GUIDE!
 
 ## <ins>Folders</ins>
 - extern/book: sources from the rust book

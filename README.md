@@ -1,7 +1,7 @@
 # <ins>learning_rust</ins>
 Private repo to learn and test the Rust programming language
 
-[Current Bookmark](https://doc.rust-lang.org/book/ch18-03-oo-design-patterns.html)
+[Current Bookmark](https://doc.rust-lang.org/book/ch19-00-patterns.html)
 
 ## <ins>Link Collection:</ins>
 - [Rust Introduction Book](https://doc.rust-lang.org/book/)
